@@ -1,6 +1,0 @@
-[submodule "todo"]
-	path = todo
-	url = git@github.com:ukitazume/todo.git
-[submodule "lookups"]
-	path = lookups
-	url = git@github.com:ukitazume/lookups.git
